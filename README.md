@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/Tryzen-0/GodMode9/stargazers"><img src="https://img.shields.io/github/stars/Tryzen-0/GodMode9?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/Tryzen-0/GodMode9/issues"><img src="https://img.shields.io/github/issues/Tryzen-0/GodMode9?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/Tryzen-0/GodMode9/contributors"><img src="https://img.shields.io/github/contributors/Tryzen-0/GodMode9?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -36,10 +36,13 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+### Method 1: Compiling GodMode9 manually with new color.h file.
+1. Instructions coming soon!
+
+### Method 2: Downloading prebuilt from releases
+1. Go to Releases tab.
+2. Download latest version with the variant you want.
+3. Put `GodMode9-<flavor>.firm` in `luma/payloads`
 
 <!-- this section is optional -->
 ## 🙋 FAQ
@@ -49,7 +52,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [NamesCode](https://github.com/NamesCode), for inspiring me to start porting to the Nintendo 3DS handheld family.
 
 &nbsp;
 
