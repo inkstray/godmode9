@@ -36,13 +36,8 @@
 
 ## Usage
 
-### Method 1: Compiling GodMode9 manually with new color.h file.
+### Method 1: Soon!
 1. Instructions coming soon!
-
-### Method 2: Downloading prebuilt from releases
-1. Go to Releases tab.
-2. Download latest version with the variant you want.
-3. Put `GodMode9-<flavor>.firm` in `luma/payloads`
 
 <!-- this section is optional -->
 ## 🙋 FAQ
